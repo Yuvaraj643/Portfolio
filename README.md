@@ -1,8 +1,8 @@
-# Joncarter
+# Yuvaraj
 Beautiful HTML,CSS and Bootstrap Portfolio
 
 # Demo
-- https://joncarter.netlify.app/
+https://yuvaraj-portfolio.netlify.app/
 
 # Clone Project
 - https://github.com/SA7MAN/joncarter
